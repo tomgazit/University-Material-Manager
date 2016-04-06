@@ -24,7 +24,7 @@ So, rather of using Dropbox or other file sharing services - I've developed a un
 
 ## Installation
 
-Unfourtanetly, this is not a one-click-installation type of thing.
+Unfortunately, this is not a one-click-installation type of thing.
 This platform uses some Linux apps that has to be installed in order for it to work as expected.
 There are 8 steps that you need to take care of:
 
