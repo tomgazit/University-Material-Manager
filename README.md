@@ -30,8 +30,8 @@ There are 8 steps that you need to take care of:
 
 1. First, copy all the files to your www directory (must be a linux server running at least CentOs 6.6).
 2. Install PHP (Minimum version: 5.5).
- 2.1 In php.ini set upload_max_size to at least 200M (or the biggest filesize you think students will upload).
- 2.2 In php.ini set memory_limit to at least 256M.
+ * In php.ini set upload_max_size to at least 200M (or the biggest filesize you think students will upload).
+ * In php.ini set memory_limit to at least 256M.
 3. Install GPL Ghostscript 8.70 (in order to compress PDF files automatically).
 4. Install LibreOffice 4.0.4.2 (in order to convert non-PDF files to PDF).
 5. Install ImageMagick 6.9.0-2.
@@ -47,4 +47,4 @@ Coffee.
 
 You are free to use the code for personal/commercial use, no license needed.
 
-SPREAD THE KNOWLEDGE !
+**SPREAD THE KNOWLEDGE !**
