@@ -26,7 +26,7 @@ So, rather of using Dropbox or other file sharing services - I've developed a un
 
 Unfortunately, this is not a one-click-installation type of thing.
 This platform uses some Linux apps that has to be installed in order for it to work as expected.
-There are 8 steps that you need to take care of:
+There are 9 steps that you need to take care of:
 
 1. First, copy all the files to your www directory (must be a linux server running at least CentOs 6.6).
 2. Install PHP (Minimum version: 5.5).
@@ -38,6 +38,7 @@ There are 8 steps that you need to take care of:
 6. Install MySQL Database, and run "install.sql"'s content as an SQL query to create the needed structure.
 7. Edit the connection credentials in **db.php** to match your Database.
 8. Change chmod permissions to 777 for the **upload** directory.
+9. PROFIT ;)
 
 ## Contributors
 
