@@ -4,6 +4,7 @@
 Anyone can register and start upload study materials (Lectures, Recitations, Formula Sheets.. etc), and assign each one to a specific course and faculty.
 Each register user gets a fancy [Control Panel](http://www.tomgazit.com/controlpanel.png) with which he may add/edit/remove uploaded materials.
 
+* Fully Responsive Design (for Desktop & Mobile)
 * DOC/DOCX files are automatically converted to PDFs
 * Pages can be reordered easily
 * Pages can be added to each upload
