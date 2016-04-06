@@ -20,7 +20,7 @@ The platform is being used at Tel Aviv University and already contains more than
 ## Motivation
 
 Tel Aviv University is known for its very poor effort for sharing study material across students.
-So, instead of using Dropbox or other file sharing services - I've developed a university-dedicated Web Platform for Uploading, Sharing, and Ranking Study Materials which every student can use.
+So, rather of using Dropbox or other file sharing services - I've developed a university-dedicated Web Platform for Uploading, Sharing, and Ranking Study Materials which every student can use.
 
 ## Installation
 
