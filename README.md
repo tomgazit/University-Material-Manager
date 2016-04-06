@@ -4,7 +4,11 @@
 Anyone can register and start upload study materials (Lectures, Recitations, Formula Sheets.. etc), and assign each one to a specific course and faculty.
 Each register user gets a fancy [Control Panel](http://www.tomgazit.com/controlpanel.png) with which he may add/edit/remove uploaded materials.
 
-*DOC/DOCX files are automatically converted to PDF
+*DOC/DOCX files are automatically converted to PDFs
+*Pages can be reordered easily
+*Pages can be added to each upload
+*Lots of AJAXs for best UX
+*Convinient Control Panel for each user
 
 The platform is being used at Tel Aviv University and already contains more than 500 Courses Materials.
 
