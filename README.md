@@ -9,7 +9,7 @@ Each registered user gets a fancy [Control Panel](http://www.tomgazit.com/contro
 * Pages can be reordered easily
 * Pages can be added to each upload
 * Lots of AJAXs for best UX
-* Convinient Control Panel for each user
+* Convenient Control Panel for each user
 
 The platform is being used at Tel Aviv University and already contains more than 500 Courses Materials.
 
