@@ -2,7 +2,7 @@
 
 **University Material Manager** is a PHP-based Web Platform for Managing & **Sharing** University Courses' Study Materials across students.
 Anyone can register and start upload study materials (Lectures, Recitations, Formula Sheets.. etc), and assign each one to a specific course and faculty.
-Each register user gets a fancy [Control Panel](http://www.tomgazit.com/controlpanel.png) with which he may add/edit/remove uploaded materials.
+Each registerקג user gets a fancy [Control Panel](http://www.tomgazit.com/controlpanel.png) with which he may add/edit/remove uploaded materials.
 
 * Fully Responsive Design (for Desktop & Mobile)
 * DOC/DOCX files are automatically converted to PDFs
