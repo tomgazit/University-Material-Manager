@@ -36,7 +36,8 @@ require_once('fpdi.php');
 			$this->AddPage('P');
 			$this->SetAlpha(1);
 			//$this->SetAlpha(0.2);
-			$this->Image('images/students_logo.jpg',30,80);
+//Add a logo for the PDF files:	
+//$this->Image('images/students_logo.jpg',30,80);
 			//$this->SetAlpha(1);
 			
 			$this->AddFont('arial','','arial.php'); 
