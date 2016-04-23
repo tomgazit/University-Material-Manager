@@ -13,10 +13,6 @@ Each registered user gets a fancy [Control Panel](http://www.tomgazit.com/contro
 
 The platform is being used at Tel Aviv University and already contains more than 500 Courses Materials.
 
-## See it Live
-
-@ [Tel Aviv University Scan Bank](http://www.taupdf.com)
-
 ## Motivation
 
 Tel Aviv University is known for its very poor effort for sharing study material across students.
