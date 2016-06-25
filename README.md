@@ -43,6 +43,5 @@ Coffee.
 ## License
 
 MIT License.
-You are free to use the code for personal/commercial use.
 
 **SPREAD THE KNOWLEDGE !**
