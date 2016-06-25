@@ -42,6 +42,7 @@ Coffee.
 
 ## License
 
-You are free to use the code for personal/commercial use, no license needed.
+MIT License.
+You are free to use the code for personal/commercial use.
 
 **SPREAD THE KNOWLEDGE !**
